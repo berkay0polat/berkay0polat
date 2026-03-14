@@ -3,7 +3,7 @@
 
 <h3 align="center">-Computer Engineering Student-</h3>
 
-<h3 align="left">Benimle iletişime geç : Berkaypolat64@gmail.com
+<h3 align="left">✉ How to reach me **Berkaypolat64@gmail.com**
 <p align="left">
 </p>
 
