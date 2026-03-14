@@ -1,4 +1,4 @@
-## 👋 Merhabalar. 👋
+## 👋 Merhabalar./ Hi there. 👋
 
 
 <h3 align="center">-Computer Engineering Student-</h3>
