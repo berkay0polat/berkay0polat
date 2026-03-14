@@ -1,9 +1,9 @@
 ## 👋 Merhabalar. 👋
 
 
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
+<h3 align="center">-Bilgisayar Mühendisliği Öğrencisi-</h3>
 
-<h3 align="left">Connect with me: Berkaypolat64@gmail.com
+<h3 align="left">Benimle iletişime geç : Berkaypolat64@gmail.com
 <p align="left">
 </p>
 
