@@ -1,7 +1,7 @@
 ## 👋 Merhabalar. 👋
 
 
-<h3 align="center">-Bilgisayar Mühendisliği Öğrencisi-</h3>
+<h3 align="center">-Computer Engineering Student-</h3>
 
 <h3 align="left">Benimle iletişime geç : Berkaypolat64@gmail.com
 <p align="left">
